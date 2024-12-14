@@ -1,22 +1,24 @@
 <h2>🌟 Data Structures & Algorithms (DSA) Repository 🌟 </h2>
 <p> Welcome to the DSA Repository! 🎉 This repository is a collection of code and solutions to various problems based on Data Structures and Algorithms 🧑‍💻. Whether you're a beginner or looking to level up your DSA skills, you'll find valuable resources here that will help you understand and implement different concepts efficiently. </p>
 <h4>
-📚 Table of Contents
-✨ About This Repository
-🔧 Technologies Used
-🚀 Features
-🛠️ Setup Instructions
-💻 Contribution Guidelines
-💡 Helpful Resources
-📈 DSA Problem Categories
-🎯 Challenges & Practice
-📞 Contact Information
-✨ About This Repository
+📚 Table of Contents <br>
+✨ About This Repository <br>
+🔧 Technologies Used <br>
+🚀 Features <br>
+🛠️ Setup Instructions <br>
+💻 Contribution Guidelines <br>
+💡 Helpful Resources <br>
+📈 DSA Problem Categories <br>
+🎯 Challenges & Practice <br>
+📞 Contact Information <br>
+✨ About This Repository <br>
 </h4>
 <p>
 This repository serves as a comprehensive learning hub for Data Structures and Algorithms. It includes code implementations in various languages (like Python, C++, JavaScript, etc.), explanations of key concepts, and solutions to classic DSA problems. 💡</p>
 <p>
 Some of the concepts covered include:
+
+<h3>
 
 Arrays, Linked Lists, Stacks, and Queues
 Sorting Algorithms (QuickSort, MergeSort, etc.)
@@ -42,6 +44,8 @@ Testing: Unit Testing (for some implementations)
 💡 Helpful Tips for solving DSA problems more efficiently.
 🌱 Practice problems to reinforce your understanding.
 🏆 Solutions to DSA problems from various competitive programming platforms like LeetCode, HackerRank, and CodeForces.
+</h3>
+
 🛠️ Setup Instructions
 To get started, follow these steps:
 
@@ -95,19 +99,19 @@ This repository is organized based on problem types. Below are some key categori
 
 Find the largest subarray sum 🧮
 Reverse a string 📝
-Subset sum problem 💡
-📊 Sorting Algorithms:
+Subset sum problem 💡 <br>
+📊 Sorting Algorithms: <br>
 
-QuickSort 🚀
-MergeSort 🌱
-BubbleSort 🧹
-🌲 Trees & Graphs:
+QuickSort 🚀 <br>
+MergeSort 🌱 <br>
+BubbleSort 🧹 <br>
+🌲 Trees & Graphs: <br>
 
-Binary Tree Traversals 🌳
-Depth First Search (DFS) 🔍
-Breadth First Search (BFS) 🌍
-💡 Dynamic Programming:
-
+Binary Tree Traversals 🌳 <br>
+Depth First Search (DFS) 🔍 <br>
+Breadth First Search (BFS) 🌍 <br>
+💡 Dynamic Programming: 
+<br>
 Fibonacci Sequence 📐
 0/1 Knapsack Problem 🎒
 Longest Common Subsequence (LCS) 🔗
