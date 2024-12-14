@@ -130,9 +130,9 @@ InterviewBit - Prepare for coding interviews with daily questions 📅.
 📞 Contact Information
 Feel free to reach out for any questions or collaboration opportunities!
 
-GitHub: https://github.com/your-username
-Email: dpk.41deep@gmail.com
-Twitter (X) : https://x.com/dpk45deepak?t=_7KNR1lf5EWY_I1spJIjAw&s=09
+GitHub: https://github.com/deep-45deepak <br>
+Email: dpk.41deep@gmail.com <br>
+Twitter (X) : https://x.com/dpk45deepak?t=_7KNR1lf5EWY_I1spJIjAw&s=09 <br>
 ✨ Acknowledgements
 👨‍💻 Special thanks to all the contributors who helped improve this repository!
 📚 All the books, blogs, and platforms that provide knowledge and resources.
